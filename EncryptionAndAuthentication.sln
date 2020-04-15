@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionAndAuthentication", "EncryptionAndAuthentication\EncryptionAndAuthentication.csproj", "{9ECDFAAE-91CC-43F7-9D81-B41A59E4B26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECDFAAE-91CC-43F7-9D81-B41A59E4B26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECDFAAE-91CC-43F7-9D81-B41A59E4B26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECDFAAE-91CC-43F7-9D81-B41A59E4B26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECDFAAE-91CC-43F7-9D81-B41A59E4B26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1C644D-D972-4302-9720-B4620C4B835F}
+	EndGlobalSection
+EndGlobal
